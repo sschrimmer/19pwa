@@ -56,7 +56,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Installation
-This application is deployed to [Heroku](https://justanotherte.herokuapp.com/).
+This application is deployed to [Heroku]
 
 To run J.A.T.E locally:
 
