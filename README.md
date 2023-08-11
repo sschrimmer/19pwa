@@ -79,7 +79,6 @@ A short and simple permissive license with conditions only requiring preservatio
 * NodeJS
 * Babel
 
-
 ## Future Development
 We would like to continue to add the following functionality to our application:
 - Overhaul CSS
